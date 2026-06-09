@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Ishan
+B.Tech CSE Student
+AI/ML & Data Science Enthusiast
 
-<!--
-**ishankandari0318/ishankandari0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+Python
+SQL
+Machine Learning
+FastAPI
+Pandas
+NumPy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+Building ML & Data Science Projects
+Learning RAG Systems
+Preparing for AI/ML Internships
